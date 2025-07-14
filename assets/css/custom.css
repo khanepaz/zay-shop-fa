@@ -1,0 +1,13 @@
+/*
+Custom Css
+*/
+@font-face {
+    font-family: vazir;
+    src: url(../font/Vazir-Thin-FD-WOL.eot),
+    url(../font/Vazir-Thin-FD-WOL.ttf),
+    url(../font/Vazir-Thin-FD-WOL.woff),
+    url(../font/Vazir-Thin-FD-WOL.woff2);
+}
+body{
+    font-family: vazir !important;
+}
